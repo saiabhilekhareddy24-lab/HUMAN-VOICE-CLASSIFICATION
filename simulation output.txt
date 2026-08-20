@@ -1,0 +1,21 @@
+========================================
+ HUMAN VOICE CLASSIFICATION TESTBENCH
+========================================
+
+----------------------------------------
+Test File: dataset/male/test.wav
+Expected  : Male
+Predicted : Male
+Confidence: 94.12%
+Result    : PASS
+
+----------------------------------------
+Test File: dataset/female/test.wav
+Expected  : Female
+Predicted : Female
+Confidence: 91.86%
+Result    : PASS
+
+========================================
+ TESTBENCH COMPLETED
+========================================
